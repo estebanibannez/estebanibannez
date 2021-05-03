@@ -2,7 +2,7 @@
 <h3 align="center">FullStack developer from Chile</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank"> <img align="left" alt="Esteban Ibanez LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
   
   
