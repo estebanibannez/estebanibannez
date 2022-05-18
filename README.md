@@ -5,12 +5,11 @@
 <p align="center">
 <h3 align="left"> <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank">  Connect with me: <img align="left" alt="Esteban Ibanez LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
  </a>
+    <h3 align="left">Languages and Tools:</h3>
 </p>
 
 <p>
-
-    <div id="container">
-      <h3 align="left">Languages and Tools:</h3>
+   
 
       <a href="https://angular.io" target="_blank">
         <img
@@ -20,7 +19,7 @@
           height="60"
         />
       </a>
-
+</p>
       <a href="https://graphql.org" target="_blank">
         <img
           src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"
