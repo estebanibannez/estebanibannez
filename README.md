@@ -1,11 +1,11 @@
 <h1 align="center">Hi !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Esteban Ibañez</h1>
-<h3 align="center">FullStack developer from Chile <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="40" height="40" frameBorder="0"/> </h3> 
+<h3 align="center">FullStack developer from Chile <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="40" height="40" frameBorder="0"/> </h3>
 
 
 <p align="center">
-<h3 align="left"> <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank">  Connect with me: <img align="left" alt="Esteban Ibanez LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
+<h3 align="left"> <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank">  Connect with me <img align="left" alt="Esteban Ibanez LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
  </a>
-
+ 
     
 <h3 align="center">Skill set</h3>
 <table>
@@ -28,4 +28,11 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" alt="Git" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" alt="Bootstrap" width="200"></td>
   </tr>
+ <tr align="center"> 
+  <td colspan='7'>  
+  <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank">
+  <img align="center" alt="Esteban Ibanez Credly" width="100px" src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" />
+ </td>
+ </tr>
 </table>
+ </p>
