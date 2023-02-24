@@ -30,7 +30,7 @@
   </tr>
  <tr align="center"> 
   <td colspan='7'>  
-  <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank">
+  <a href="https://www.credly.com/users/jonathan-ibanez/badges" target="blank">
   <img align="center" alt="Esteban Ibanez Credly" width="100px" src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" />
  </td>
  </tr>
