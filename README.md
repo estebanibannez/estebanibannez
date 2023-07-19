@@ -3,8 +3,7 @@
 
 
 <p align="center">
-<h3 align="left"> <a href="https://linkedin.com/in/esteban-ibañez-3354ba6a" target="blank">  Connect with me <img align="left" alt="Esteban Ibanez LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
- </a>
+
  
     
 <h3 align="center">Skill set</h3>
